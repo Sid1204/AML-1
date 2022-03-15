@@ -1,3 +1,1 @@
-# AML-1
-
-Predicting house prices on Kaggle dataset that contains various features that are then used to train a model.
+# Predicting housing pricing and mortality stats on the Titanic
